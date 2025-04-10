@@ -8,6 +8,7 @@
  *    interval: 轮播时间间隔，单位毫秒，默认为2000
  *    loopSeries: boolean类型，默认为true，true表示循环所有series的tooltip，false则显示指定seriesIndex的tooltip
  *    seriesIndex: 默认为0，指定某个系列（option中的series索引）循环显示tooltip，当loopSeries为true时，从seriesIndex系列开始执行
+ *    updateData: 当轮播到第一个数据项时，会调用此回调函数
  *    reverseDirection: 默认为false，true表示反方向显示tooltip
  *    initialDelay: 第一个tooltip出现的延迟时间，单位毫秒，默认为2000
  *  }
