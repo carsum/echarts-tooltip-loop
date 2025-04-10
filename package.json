@@ -1,6 +1,6 @@
 {
   "name": "echarts-tooltip-loop",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "echarts-tooltip-loop",
   "main": "index.js",
   "types": "index.d.ts",
@@ -10,7 +10,13 @@
     "loop",
     "auto",
     "carousel",
-    "swipe"
+    "swipe",
+    "图表",
+    "提示框",
+    "提示",
+    "轮播",
+    "自动",
+    "走马灯"
   ],
   "repository": {
     "type": "git",
