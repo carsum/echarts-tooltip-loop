@@ -1,0 +1,16 @@
+{
+  "name": "echarts-tooltip-loop",
+  "version": "1.0.0",
+  "description": "echarts-tooltip-loop",
+  "main": "index.js",
+  "keywords": ["echarts", "tooltip", "loop", "auto", "carousel","swipe"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/carsum/echarts-tooltip-loop"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "carsum",
+  "license": "MIT"
+}
