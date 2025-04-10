@@ -1,6 +1,8 @@
 # echarts-tooltip-loop
 ![image](./demo.gif)
+
 echarts-tooltip-loop
+
 echarts图表提示框自动循环
 
 ## Install
