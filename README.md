@@ -1,9 +1,7 @@
 # echarts-tooltip-loop
 ![image](./demo.gif)
-
 echarts-tooltip-loop
 echarts图表提示框自动循环
-
 
 ## Install
 
@@ -14,7 +12,7 @@ npm install echarts-tooltip-loop --save
 
 ## params
 
-| 参数名              | 类型     | 默认值  | 描述  |
+| 参数名              | 类型     |  <div style="width: 60px">默认值</div> | 描述  |
 | ------------------ | -------- | ------- | ------------ |
 | interval           | number   | 2000    | 轮播时间间隔，单位毫秒                                                                               |
 | loopSeries         | boolean  | true    | true表示循环所有series的tooltip，false则显示指定seriesIndex的tooltip                                 |
@@ -53,7 +51,6 @@ loopController.clearLoop();
 
 ## credits
 [echarts-tooltip-loop](https://github.com/carsum/echarts-tooltip-loop)
-
 
 
 
