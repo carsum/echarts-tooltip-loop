@@ -14,9 +14,9 @@ npm install echarts-tooltip-loop --save
 
 ## params
 
-| 参数名              | 类型     |  <div style="width: 80px">默认值 | 描述  |
+| 参数名              | 类型     | 默认值 | 描述  |
 | ------------------ | -------- | ------- | ------------ |
-| interval           | number   | 2000    | 轮播时间间隔，单位毫秒                                                                               |
+| interval           | number   | 2000 <img width=40/>| 轮播时间间隔，单位毫秒                                                                               |
 | loopSeries         | boolean  | true    | true表示循环所有series的tooltip，false则显示指定seriesIndex的tooltip                                 |
 | seriesIndex        | number   | 0       | 指定某个系列（option中的series索引）循环显示tooltip，当loopSeries为true时，从seriesIndex系列开始执行 |
 | updateData         | function | -       | 当轮播到第一个数据项时，会调用此回调函数                                                             |
