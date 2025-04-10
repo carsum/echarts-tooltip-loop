@@ -33,7 +33,7 @@ loopController.clearLoop();
 
 ```
 
-![image](./demo.gif)](https://github.com/carsum/echarts-tooltip-loop/blob/main/demo.gif)
+![image](./demo.gif)
 
 
 
