@@ -32,7 +32,8 @@ const loopController = looping(myChart, option)
 loopController.clearLoop();
 
 ```
-![image](/demo.gif)
+
+![image](./demo.gif)](https://github.com/carsum/echarts-tooltip-loop/blob/main/demo.gif)
 
 
 
