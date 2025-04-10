@@ -1,4 +1,5 @@
 # echarts-tooltip-loop
+![image](./demo.gif)
 
 ## Install
 
@@ -33,7 +34,6 @@ loopController.clearLoop();
 
 ```
 
-![image](./demo.gif)
 
 
 
