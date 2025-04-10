@@ -32,8 +32,7 @@ const loopController = looping(myChart, option)
 loopController.clearLoop();
 
 ```
-
-![Uploading demo.gif…]()
+![image](/demo.gif)
 
 
 
