@@ -3,8 +3,8 @@
 
 ## Install
 
-```bash
-$ npm install echarts-tooltip-loop --save
+```node
+npm install echarts-tooltip-loop --save
 ```
 
 ## Usage
@@ -33,6 +33,12 @@ const loopController = looping(myChart, option)
 loopController.clearLoop();
 
 ```
+
+## credits
+[echarts-tooltip-loop](https://github.com/carsum/echarts-tooltip-loop)
+
+
+
 
 
 
